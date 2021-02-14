@@ -24,7 +24,7 @@ Clone this repo and open a terminal inside of this repo folder
 
 ### To run the Auth required version:
 
-  Go to: https://console.developers.google.com/apis/api/calendar-json.googleapis.com/credentials?project=quickstart02-1611498172948
+  Go to: https://console.developers.google.com/apis/api/calendar-json.googleapis.com/credentials
    and click on + CREATE CREDENTIALS near the top of the page, select OAuth Client ID, then Web application for the application type,
    name it whatever you like and then click CREATE near the bottom. Click OK to get rid of the popup, then download the credentials.
    Find this file in your downloads and rename it as credentials.json and move it into the repo folder for this project. 
