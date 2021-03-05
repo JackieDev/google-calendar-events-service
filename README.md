@@ -29,4 +29,4 @@ Clone this repo and open a terminal inside of this repo folder
    name it whatever you like and then click CREATE near the bottom. Click OK to get rid of the popup, then download the credentials.
    Find this file in your downloads and rename it as credentials.json and move it into the repo folder for this project. 
 
-   Then run this version: `node index.js` (this doesn't quite work yet)
+   Then run this version: `node index.js`
