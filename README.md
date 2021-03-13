@@ -26,6 +26,6 @@ Clone this repo and open a terminal inside of this repo folder
 
   `node index.js`
 
-  and point to this url: 
+  and point to this url, by replacing `[YOUR_CLIENT_SECRET]` and `[YOUR_CLIENT_ID]`: 
 
   `localhost:3000/get-calendar-events?client_secret=[YOUR_CLIENT_SECRET]&client_id=[YOUR_CLIENT_ID]&redirect_uris=localhost:3000/something`
